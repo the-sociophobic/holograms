@@ -1,0 +1,8 @@
+{
+  "homepage": "https://the-sociophobic.github.io/holograms",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
